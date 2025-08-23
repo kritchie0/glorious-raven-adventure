@@ -1,0 +1,17 @@
+{
+	"identifier": "Level_0",
+	"uniqueIdentifer": "877cd930-5e50-11f0-bb67-a57e494cf145",
+	"x": 0,
+	"y": 0,
+	"width": 640,
+	"height": 344,
+	"bgColor": "#696A79",
+	"neighbourLevels": [],
+	"customFields" : {},
+	"layers": [
+		"Ground.png",
+		"Trees.png",
+		"Camping.png"
+	],
+	"entities" : {}
+}
